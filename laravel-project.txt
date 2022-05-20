@@ -1,0 +1,12 @@
+https://www.apachefriends.org/download.html
+
+https://getcomposer.org/download/
+
+https://laravel.com/docs/9.x#installation-via-composer
+
+
+PS D:\GITRepos> composer create-project laravel/laravel laravel-project
+
+PS D:\GITRepos> cd .\laravel-project\
+
+PS D:\GITRepos\laravel-project> php artisan serve
